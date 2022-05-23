@@ -1,0 +1,17 @@
+[33mcommit 293a73970d2bd7fa34be91acec2cc80733a1df9a[m[33m ([m[1;36mHEAD -> [m[1;32mcadastro-cliente[m[33m)[m
+Author: Willy Cunha <wiltern@gmail.com>
+Date:   Mon May 23 07:24:08 2022 -0300
+
+    cadastro de cliente adicionado
+
+[33mcommit 7e53d2bc905d191bbaf529f5cc6dcb196103015a[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: Willy Cunha <wiltern@gmail.com>
+Date:   Mon May 23 07:07:11 2022 -0300
+
+    adicionado git ignore
+
+[33mcommit 8c1ffaee1f742b87dd82aae557d9f5bb3d003a39[m
+Author: Willy Cunha <wiltern@gmail.com>
+Date:   Mon May 23 06:37:23 2022 -0300
+
+    primeira versão com index.html e script.js
